@@ -94,11 +94,11 @@ echo
 
 echo $i" ▬▬▬▬▬▬▬▬▬"$cy  "MENU HACK BROZz21"$i"▬▬▬▬▬▬▬▬▬▬"
 echo $i"▐"         echo $me"★★★★★★★★    "                  "$i▐"              
-echo $i"▐"                                                 "$i▐" 
-echo $i"▐" echo $cy"▶"$pu"1"$cy"◀"$pur" -» MBF"            "$i▐" 
-echo $i"▐" echo $cy"▶"$pu"2"$cy"◀"$pur" -» Cloning Yahoo"  "$i▐" 
-echo $i"▐" echo $cy"▶"$pu"3"$cy"◀"$pur" -» EXIT"           "$i▐" 
-echo $i"▐"                                                 "$i▐" 
+echo $i"▐"                                                     "$i▐" 
+echo $i"▐" echo $cy"▶"$pu"1"$cy"◀"$pur" -» MBF"               "$i▐" 
+echo $i"▐" echo $cy"▶"$pu"2"$cy"◀"$pur" -» Cloning Yahoo"     "$i▐" 
+echo $i"▐" echo $cy"▶"$pu"3"$cy"◀"$pur" -» EXIT"              "$i▐" 
+echo $i"▐"                                                     "$i▐" 
 echo $i"▐"         echo $me"★★★★★★★★    "                  "$i▐" 
 echo $i" ▬▬▬▬▬▬▬▬▬ "$cy  "HACK BROZz21"$i"  ▬▬▬▬▬▬▬▬▬▬▬"
 
